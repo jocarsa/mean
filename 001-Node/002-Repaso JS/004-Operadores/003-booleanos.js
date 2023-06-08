@@ -1,0 +1,8 @@
+console.log("and")
+console.log(4==4 && 3==3)
+console.log("and")
+console.log(4==4 && 3==2)
+console.log("or")
+console.log(4==4 || 3==2)
+console.log("or")
+console.log(4==2 || 3==2)
