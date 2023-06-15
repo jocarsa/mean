@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.5625561"
-     inkscape:cx="595.17862"
-     inkscape:cy="370.54669"
+     inkscape:zoom="1.104894"
+     inkscape:cx="467.01312"
+     inkscape:cy="386.46241"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -495,25 +495,25 @@
     <text
        xml:space="preserve"
        style="font-size:7.69805px;fill:#000000;stroke-width:1.12743;stroke-linecap:round;stroke-linejoin:round"
-       x="29.997774"
-       y="49.198334"
+       x="43.886738"
+       y="48.719402"
        id="text16195"><tspan
          sodipodi:role="line"
          id="tspan16193"
          style="stroke-width:1.12743"
-         x="29.997774"
-         y="49.198334">panel de control</tspan></text>
+         x="43.886738"
+         y="48.719402">panel de control</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.69805px;fill:#000000;stroke-width:1.12743;stroke-linecap:round;stroke-linejoin:round"
        x="163.35213"
-       y="49.199089"
+       y="32.915478"
        id="text16195-3"><tspan
          sodipodi:role="line"
          id="tspan16193-1"
          style="stroke-width:1.12743"
          x="163.35213"
-         y="49.199089">web de cara al usuario</tspan></text>
+         y="32.915478">web de cara al usuario</tspan></text>
     <rect
        style="fill:#808000;stroke-width:0.172349"
        id="rect171-8-6"
@@ -636,5 +636,46 @@
          style="fill:#ffffff;stroke-width:0.264583"
          x="-57.74551"
          y="234.65962">interactividad</tspan></text>
+    <circle
+       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       id="path990"
+       cx="31.510971"
+       cy="9.403101"
+       r="2.1851172" />
+    <path
+       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 30.478381,9.5510115 31.129849,10.20248 32.612501,8.7198277"
+       id="path1150" />
+    <circle
+       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       id="circle1530"
+       cx="56.74073"
+       cy="9.403101"
+       r="2.1851172" />
+    <path
+       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 55.708142,9.5510115 56.35961,10.20248 57.842262,8.7198277"
+       id="path1532" />
+    <circle
+       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       id="circle1534"
+       cx="41.331951"
+       cy="9.403101"
+       r="2.1851172" />
+    <path
+       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40.299362,9.5510115 40.95083,10.20248 42.433482,8.7198277"
+       id="path1536" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.35176px;fill:none;stroke:#efefef;stroke-width:0.937001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="37.745289"
+       y="5.658381"
+       id="text1592"><tspan
+         sodipodi:role="line"
+         id="tspan1590"
+         style="fill:#000000;stroke:none;stroke-width:0.937001"
+         x="37.745289"
+         y="5.658381">pug.js</tspan></text>
   </g>
 </svg>

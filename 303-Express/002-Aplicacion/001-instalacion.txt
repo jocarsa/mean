@@ -1,0 +1,8 @@
+npm install -g express-generator
+
+express --view=pug miaplicacion
+
+cd miaplicacion
+npm install
+
+set DEBUG=miaplicacion:* & npm start

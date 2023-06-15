@@ -1,19 +1,26 @@
-// npm install mongodb
-var mongodb = require("mongodb").MongoClient;
-var direccion = "mongodb://localhost:27017/"
+const { MongoClient } = require("mongodb");
 
-mongodb.connect(direccion,function(err,db){
-    if(err){
-        throw err;
+const url = "mongodb://127.0.0.1:27017";
+const dbName = "blognodejs";
+
+MongoClient.connect(url, function (err, client) {
+  if (err) {
+    console.error("Failed to connect to MongoDB:", err);
+    return;
+  }
+
+  console.log("Connected to MongoDB");
+
+  const db = client.db(dbName);
+
+  db.createCollection("entradas", function (err, res) {
+    if (err) {
+      console.error("Failed to create collection:", err);
+      client.close();
+      return;
     }
-    console.log("base de datos creada")
-    // Quiero usar la base de datos blognodejs
-    var mibase = db.db("blognodejs")
-    mibase.createCollection("entradas",function(err,res){
-        if(err){
-            throw err;
-        }
-        mibase.close()
-        console.log("ok")
-    })
-})
+
+    client.close();
+    console.log("Collection 'entradas' created successfully.");
+  });
+});

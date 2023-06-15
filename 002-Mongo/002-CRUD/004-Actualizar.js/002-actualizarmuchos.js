@@ -1,0 +1,1 @@
+db.entradas.updateMany({fecha:"2023-06-08"},{$set:{autor:"Juan"}})
