@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.1251122"
-     inkscape:cx="360.30706"
-     inkscape:cy="264.31051"
+     inkscape:zoom="1.104894"
+     inkscape:cx="456.15235"
+     inkscape:cy="641.69051"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -98,5 +98,223 @@
          style="stroke-width:0.465"
          x="77.809456"
          y="-75.955467">hp</tspan></text>
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect1552"
+       width="61.849033"
+       height="18.943619"
+       x="53.127663"
+       y="144.0006"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="54.700554"
+       y="154.6391"
+       id="text1556"><tspan
+         sodipodi:role="line"
+         id="tspan1554"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="54.700554"
+         y="154.6391">php</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="76.085823"
+       y="161.31329"
+       id="text1560"><tspan
+         sodipodi:role="line"
+         id="tspan1558"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="76.085823"
+         y="161.31329">programación en servidor</tspan></text>
+    <rect
+       style="fill:#008000;stroke-width:0.264583"
+       id="rect1562"
+       width="61.849033"
+       height="18.943619"
+       x="53.127663"
+       y="166.08058"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.16754px;fill:#ffffff;stroke-width:0.680626"
+       x="56.661667"
+       y="176.52898"
+       id="text1566"><tspan
+         sodipodi:role="line"
+         id="tspan1564"
+         style="fill:#ffffff;stroke-width:0.680626"
+         x="56.661667"
+         y="176.52898">MySQL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="93.147636"
+       y="183.39328"
+       id="text1570"><tspan
+         sodipodi:role="line"
+         id="tspan1568"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="93.147636"
+         y="183.39328">base de datos</tspan></text>
+    <rect
+       style="fill:#008080;stroke-width:0.264583"
+       id="rect7022"
+       width="61.849033"
+       height="18.943619"
+       x="53.127663"
+       y="99.939056"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="54.700554"
+       y="110.57756"
+       id="text7026"><tspan
+         sodipodi:role="line"
+         id="tspan7024"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="54.700554"
+         y="110.57756">css</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="76.085823"
+       y="117.25175"
+       id="text7030"><tspan
+         sodipodi:role="line"
+         id="tspan7028"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="76.085823"
+         y="117.25175">estética</tspan></text>
+    <rect
+       style="fill:#d40000;stroke-width:0.264583"
+       id="rect7032"
+       width="61.849033"
+       height="18.943619"
+       x="53.127663"
+       y="122.01904"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.16754px;fill:#ffffff;stroke-width:0.680626"
+       x="56.661667"
+       y="132.46744"
+       id="text7036"><tspan
+         sodipodi:role="line"
+         id="tspan7034"
+         style="fill:#ffffff;stroke-width:0.680626"
+         x="56.661667"
+         y="132.46744">html</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="93.147636"
+       y="139.33174"
+       id="text7040"><tspan
+         sodipodi:role="line"
+         id="tspan7038"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="93.147636"
+         y="139.33174">estructura</tspan></text>
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect7094"
+       width="61.849033"
+       height="18.943619"
+       x="122.72116"
+       y="144.0006"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="124.29405"
+       y="154.6391"
+       id="text7098"><tspan
+         sodipodi:role="line"
+         id="tspan7096"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="124.29405"
+         y="154.6391">node</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="145.67932"
+       y="161.31329"
+       id="text7102"><tspan
+         sodipodi:role="line"
+         id="tspan7100"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="145.67932"
+         y="161.31329">programación en servidor</tspan></text>
+    <rect
+       style="fill:#008000;stroke-width:0.264583"
+       id="rect7104"
+       width="61.849033"
+       height="18.943619"
+       x="123.05982"
+       y="166.08058"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.16754px;fill:#ffffff;stroke-width:0.680626"
+       x="126.59383"
+       y="176.52898"
+       id="text7108"><tspan
+         sodipodi:role="line"
+         id="tspan7106"
+         style="fill:#ffffff;stroke-width:0.680626"
+         x="126.59383"
+         y="176.52898">Mongo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="163.07979"
+       y="183.39328"
+       id="text7112"><tspan
+         sodipodi:role="line"
+         id="tspan7110"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="163.07979"
+         y="183.39328">base de datos</tspan></text>
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect7114"
+       width="61.849033"
+       height="18.943619"
+       x="53.127663"
+       y="188.36433"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="54.700554"
+       y="199.00284"
+       id="text7118"><tspan
+         sodipodi:role="line"
+         id="tspan7116"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="54.700554"
+         y="199.00284">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="76.085823"
+       y="205.67703"
+       id="text7122"><tspan
+         sodipodi:role="line"
+         id="tspan7120"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="76.085823"
+         y="205.67703">programación en servidor</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.265;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect7124"
+       width="159.24416"
+       height="137.93178"
+       x="39.751171"
+       y="91.23613"
+       ry="2.2581797" />
   </g>
 </svg>

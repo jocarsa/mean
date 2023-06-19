@@ -8,7 +8,7 @@
    version="1.1"
    id="svg9686"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="mern.svg"
+   sodipodi:docname="firebase.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.104894"
-     inkscape:cx="454.34223"
-     inkscape:cy="473.34857"
+     inkscape:cx="477.8739"
+     inkscape:cy="465.203"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -178,7 +178,7 @@
          id="tspan11289"
          style="stroke-width:1.85409"
          x="26.019789"
-         y="22.097797">MERN</tspan></text>
+         y="22.097797">MEAN</tspan></text>
     <rect
        style="fill:#ff0000;stroke-width:0.264583"
        id="rect171"
@@ -364,7 +364,7 @@
          id="tspan589-8"
          style="fill:#ffffff;stroke-width:1.16173"
          x="-114.69051"
-         y="231.91742">js</tspan></text>
+         y="231.91742">ts</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
@@ -495,25 +495,25 @@
     <text
        xml:space="preserve"
        style="font-size:7.69805px;fill:#000000;stroke-width:1.12743;stroke-linecap:round;stroke-linejoin:round"
-       x="29.997774"
-       y="49.198334"
+       x="43.886738"
+       y="48.719402"
        id="text16195"><tspan
          sodipodi:role="line"
          id="tspan16193"
          style="stroke-width:1.12743"
-         x="29.997774"
-         y="49.198334">panel de control</tspan></text>
+         x="43.886738"
+         y="48.719402">panel de control</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.69805px;fill:#000000;stroke-width:1.12743;stroke-linecap:round;stroke-linejoin:round"
        x="163.35213"
-       y="49.199089"
+       y="32.915478"
        id="text16195-3"><tspan
          sodipodi:role="line"
          id="tspan16193-1"
          style="stroke-width:1.12743"
          x="163.35213"
-         y="49.199089">web de cara al usuario</tspan></text>
+         y="32.915478">web de cara al usuario</tspan></text>
     <rect
        style="fill:#808000;stroke-width:0.172349"
        id="rect171-8-6"
@@ -568,7 +568,7 @@
          id="tspan14834"
          style="stroke-width:0.465"
          x="24.318167"
-         y="-48.530739">eact.js</tspan></text>
+         y="-48.530739">ngular</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
@@ -591,7 +591,7 @@
          id="tspan14844"
          style="fill:#ffffff;stroke-width:0.786219"
          x="187.75804"
-         y="135.87386">React.js</tspan></text>
+         y="135.87386">Angular</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.43465px;fill:#ffffff;stroke-width:0.786219"
@@ -604,64 +604,118 @@
          x="54.855022"
          y="135.87386">Express.js</tspan></text>
     <rect
-       style="fill:#008000;stroke-width:0.264583"
-       id="rect16609"
+       style="fill:#ff2a2a;stroke-width:0.264583"
+       id="rect25465"
        width="61.849033"
        height="18.943619"
-       x="109.74243"
-       y="170.22823"
-       ry="2.2581797" />
+       x="-97.51458"
+       y="217.34692"
+       ry="2.2581797"
+       transform="rotate(-90)" />
     <text
        xml:space="preserve"
-       style="font-size:8.16754px;fill:#ffffff;stroke-width:0.680626"
-       x="113.27644"
-       y="180.67662"
-       id="text16613"><tspan
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-94.540573"
+       y="231.91742"
+       id="text25469"
+       transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         id="tspan16611"
-         style="fill:#ffffff;stroke-width:0.680626"
-         x="113.27644"
-         y="180.67662">MongoDB</tspan></text>
+         id="tspan25467"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-94.540573"
+         y="231.91742">js</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
-       x="149.76241"
-       y="187.54092"
-       id="text16617"><tspan
+       x="-57.74551"
+       y="234.65962"
+       id="text25473"
+       transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         id="tspan16615"
+         id="tspan25471"
          style="fill:#ffffff;stroke-width:0.264583"
-         x="149.76241"
-         y="187.54092">base de datos</tspan></text>
+         x="-57.74551"
+         y="234.65962">interactividad</tspan></text>
+    <circle
+       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       id="path990"
+       cx="31.510971"
+       cy="9.403101"
+       r="2.1851172" />
+    <path
+       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 30.478381,9.5510115 31.129849,10.20248 32.612501,8.7198277"
+       id="path1150" />
+    <circle
+       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       id="circle1530"
+       cx="56.74073"
+       cy="9.403101"
+       r="2.1851172" />
+    <path
+       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 55.708142,9.5510115 56.35961,10.20248 57.842262,8.7198277"
+       id="path1532" />
+    <circle
+       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       id="circle1534"
+       cx="41.331951"
+       cy="9.403101"
+       r="2.1851172" />
+    <path
+       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40.299362,9.5510115 40.95083,10.20248 42.433482,8.7198277"
+       id="path1536" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.35176px;fill:none;stroke:#efefef;stroke-width:0.937001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="37.745289"
+       y="5.658381"
+       id="text1592"><tspan
+         sodipodi:role="line"
+         id="tspan1590"
+         style="fill:#000000;stroke:none;stroke-width:0.937001"
+         x="37.745289"
+         y="5.658381">pug.js</tspan></text>
     <rect
        style="fill:#008000;stroke-width:0.264583"
-       id="rect16619"
+       id="rect1844"
        width="61.849033"
        height="18.943619"
-       x="-20.28701"
+       x="178.94778"
        y="170.22823"
        ry="2.2581797" />
     <text
        xml:space="preserve"
        style="font-size:8.16754px;fill:#ffffff;stroke-width:0.680626"
-       x="-16.752998"
+       x="182.4818"
        y="180.67662"
-       id="text16623"><tspan
+       id="text1848"><tspan
          sodipodi:role="line"
-         id="tspan16621"
+         id="tspan1846"
          style="fill:#ffffff;stroke-width:0.680626"
-         x="-16.752998"
-         y="180.67662">MongoDB</tspan></text>
+         x="182.4818"
+         y="180.67662">firebase</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
-       x="19.732964"
+       x="218.96776"
        y="187.54092"
-       id="text16627"><tspan
+       id="text1852"><tspan
          sodipodi:role="line"
-         id="tspan16625"
+         id="tspan1850"
          style="fill:#ffffff;stroke-width:0.264583"
-         x="19.732964"
+         x="218.96776"
          y="187.54092">base de datos</tspan></text>
+    <path
+       style="fill:#008000;stroke:#000000;stroke-width:1.065;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1-6)"
+       d="m 214.9396,170.53349 0,-29.96235"
+       id="path2010"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#008000;stroke:#000000;stroke-width:1.065;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1-6-3)"
+       d="m 205.53637,139.28569 0,30.68075"
+       id="path2012"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
