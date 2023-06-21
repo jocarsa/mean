@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Socket.IO Chat Example</title>
+    <style>
+        canvas{border:1px solid black;}
+    </style>
+</head>
+<body>
+<input type="text" id="nombre">
+  <canvas id="lienzo" width=512 height=512></canvas>
+    <script>
+        var contexto = document.getElementById("lienzo").getContext("2d")
+        contexto.fillRect(20,20,40,40)
+        posx = 20;
+        posy = 20;
+        document.onkeydown = function(e){
+            //console.log("has pulsado una tecla")
+            //console.log(e)
+            switch(e.key){
+                case "w":console.log("arriba");posy-=10;break;
+                case "s":console.log("abajo");posy+=10;break;
+                case "a":console.log("izquierda");posx-=10;break;
+                case "d":console.log("derecha");posx+=10;break;
+                default:console.log("no") 
+            }
+            //contexto.clearRect(0,0,512,512)
+            
+            contexto.fillRect(posx,posy,5,5)
+            nombre = document.getElementById("nombre").value
+            socket.emit('movimiento', {"nombre":nombre,"posx":posx,"posy":posy});
+        }
+    </script>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+      
+    const socket = io(); // Connect to the server
+
+    // Receive chat message
+    socket.on('movimiento', (msg) => {
+      //contexto.clearRect(0,0,512,512)
+        for(var i = 0;i<msg.length;i++){
+            contexto.fillRect(msg[i].posx,msg[i].posy,5,5)
+        }
+        console.log(msg)
+    });
+
+    // Connection status
+    socket.on('connect', () => {
+      console.log('Connected to the server');
+    });
+
+    socket.on('disconnect', () => {
+      console.log('Disconnected from the server');
+    });
+    
+  </script>
+</body>
+</html>
