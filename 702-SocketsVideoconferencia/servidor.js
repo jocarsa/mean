@@ -9,10 +9,24 @@ app.use(express.static(__dirname + '/public'));
 
 io.on('connection', (socket) => {
   console.log('A user connected');
-
+    
   socket.on('movimiento', (msg) => {
     console.log('Received message:', msg);
-      jugadores.push( {"nombre":msg.nombre,"posx":msg.posx,"posy":msg.posy})
+      var existe = false;
+      identificador = 0
+      for(var i = 0;i<jugadores.length;i++){
+          if(msg.id == jugadores[i].id){
+              existe = true;
+              identificador = i
+          }
+      }
+      console.log(existe)
+      if(existe == false){
+          jugadores.push(msg)
+      }else{
+          jugadores[identificador] = msg
+      }
+      
     io.emit('movimiento', jugadores); // Broadcast the message to all connected clients
   });
 
