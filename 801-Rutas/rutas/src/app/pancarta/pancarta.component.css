@@ -1,0 +1,47 @@
+.pancarta,.contienepancarta{
+    width:800px;
+    height:400px;
+    background-size:cover;
+    background-position:center center;
+    float:left;
+}
+h4{
+    color:white;
+    font-weight:bold;
+    font-size:40px;
+    padding-top:20px;
+    padding-left:20px;
+    padding-bottom:0px;
+    margin:0px;
+}
+p{
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+    padding-top:20px;
+    padding-left:20px;
+    padding-bottom:0px;
+    margin:0px;
+}
+#deslizable{
+    width:4000px;
+    position:relative;
+    animation:pancartas 20s;
+}
+@keyframes pancartas{
+    0%{left:0px;}
+    10%{left:-800px;}
+    25%{left:-800px;}
+    30%{left:-1600px;}
+    45%{left:-1600px;}
+    50%{left:-2400px;}
+    70%{left:-2400px;}
+    85%{left:-3200px;}
+    95%{left:-3200px;}
+    100%{left:-4000px;}
+}
+#contenedor{
+    width:800px;
+    height:400px;
+    overflow:hidden;
+}

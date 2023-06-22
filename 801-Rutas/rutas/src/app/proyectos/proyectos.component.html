@@ -1,0 +1,10 @@
+<div id="listaentradas" >
+    <div class="razon" *ngFor="let Proyectos of listaProyectos">
+        <div class="texto">
+            <h4 class="mititulo">{{Proyectos.titulo}}</h4>
+            <p>{{Proyectos.contenido}}</p>
+        </div>  
+        <img src="assets/imagenes/{{Proyectos.imagen}}">
+        <div class="clearfix"></div>
+    </div>
+</div>
