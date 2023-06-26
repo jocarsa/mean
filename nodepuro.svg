@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg9686"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="nodepuro.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9688"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.78127804"
+     inkscape:cx="627.17749"
+     inkscape:cy="554.22011"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs9683" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:12.6597px;fill:#000000;stroke-width:1.85409;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.85409, 7.41637"
+       x="108.65149"
+       y="48.512848"
+       id="text11291"><tspan
+         sodipodi:role="line"
+         id="tspan11289"
+         style="stroke-width:1.85409"
+         x="108.65149"
+         y="48.512848">MEAN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-134.33675"
+       y="236.25592"
+       id="text591"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan589"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-134.33675"
+         y="236.25592">js</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 1.065;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 5.8703291,121.3938 H 284.82863"
+       id="path753"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect1552"
+       width="61.849033"
+       height="18.943619"
+       x="178.94778"
+       y="163.23453"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="180.52068"
+       y="173.87303"
+       id="text1556"><tspan
+         sodipodi:role="line"
+         id="tspan1554"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="180.52068"
+         y="173.87303">Node.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="201.90594"
+       y="180.54723"
+       id="text1560"><tspan
+         sodipodi:role="line"
+         id="tspan1558"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="201.90594"
+         y="180.54723">programación en servidor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       x="50.493752"
+       y="-114.63936"
+       id="text14828"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan14826"
+         style="stroke-width:0.465"
+         x="50.493752"
+         y="-114.63936">ongoDB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       x="50.733219"
+       y="-123.73903"
+       id="text14832"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan14830"
+         style="stroke-width:0.465"
+         x="50.733219"
+         y="-123.73903">xpress.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       x="50.733219"
+       y="-131.16245"
+       id="text14836"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan14834"
+         style="stroke-width:0.465"
+         x="50.733219"
+         y="-131.16245">ngular</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       x="51.212147"
+       y="-139.06477"
+       id="text14840"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan14838"
+         style="stroke-width:0.465"
+         x="51.212147"
+         y="-139.06477">ode.js</tspan></text>
+    <circle
+       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       id="path990"
+       cx="114.14267"
+       cy="35.818153"
+       r="2.1851172" />
+    <path
+       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 113.11008,35.966063 0.65147,0.651469 1.48265,-1.482652"
+       id="path1150" />
+    <circle
+       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       id="circle1530"
+       cx="139.37244"
+       cy="35.818153"
+       r="2.1851172" />
+    <path
+       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.33984,35.966063 0.65147,0.651469 1.48265,-1.482652"
+       id="path1532" />
+    <circle
+       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       id="circle1534"
+       cx="123.96365"
+       cy="35.818153"
+       r="2.1851172" />
+    <path
+       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 122.93106,35.966063 0.65147,0.651469 1.48265,-1.482652"
+       id="path1536" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.35176px;fill:none;stroke:#efefef;stroke-width:0.937001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="120.37699"
+       y="32.073433"
+       id="text1592"><tspan
+         sodipodi:role="line"
+         id="tspan1590"
+         style="fill:#000000;stroke:none;stroke-width:0.937001"
+         x="120.37699"
+         y="32.073433">pug.js</tspan></text>
+    <rect
+       style="fill:#782121;stroke-width:0.264583"
+       id="rect6391"
+       width="61.849033"
+       height="18.943619"
+       x="178.94778"
+       y="141.89929"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="180.52068"
+       y="152.5378"
+       id="text6395"><tspan
+         sodipodi:role="line"
+         id="tspan6393"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="180.52068"
+         y="152.5378">Express.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="201.90594"
+       y="159.21199"
+       id="text6399"><tspan
+         sodipodi:role="line"
+         id="tspan6397"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="201.90594"
+         y="159.21199">programación en servidor</tspan></text>
+    <circle
+       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
+       id="circle6455"
+       cx="131.47009"
+       cy="35.818153"
+       r="2.1851172" />
+    <path
+       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 130.4375,35.966063 0.65147,0.651469 1.48265,-1.482652"
+       id="path6457" />
+    <rect
+       style="fill:#aa0000;stroke-width:0.264583"
+       id="rect9459"
+       width="61.849033"
+       height="18.943619"
+       x="178.94778"
+       y="185.50476"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="180.52068"
+       y="196.14326"
+       id="text9463"><tspan
+         sodipodi:role="line"
+         id="tspan9461"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="180.52068"
+         y="196.14326">MySQL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="216.51331"
+       y="202.81746"
+       id="text9467"><tspan
+         sodipodi:role="line"
+         id="tspan9465"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="216.51331"
+         y="202.81746">base de datos</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect171-9"
+       width="61.849033"
+       height="18.943619"
+       x="-144.23347"
+       y="199.54517"
+       ry="2.2581797"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-141.25946"
+       y="214.11569"
+       id="text279-2"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan277-1"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-141.25946"
+         y="214.11569">html</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="-98.442581"
+       y="216.85789"
+       id="text493-5"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan491-6"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-98.442581"
+         y="216.85789">esqueleto</tspan></text>
+    <rect
+       style="fill:#808000;stroke-width:0.264583"
+       id="rect171-8-0"
+       width="61.849033"
+       height="18.943619"
+       x="-144.29619"
+       y="177.77882"
+       ry="2.2581797"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-141.3222"
+       y="192.34935"
+       id="text279-5-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan277-3-1"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-141.3222"
+         y="192.34935">css</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="-96.999847"
+       y="195.09154"
+       id="text493-0-0"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan491-8-9"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-96.999847"
+         y="195.09154">estética</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="-124.42883"
+       y="239.30367"
+       id="text595-2"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan593-0"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-124.42883"
+         y="239.30367">interactividad</tspan></text>
+    <rect
+       style="fill:#ff2a2a;stroke-width:0.264583"
+       id="rect25465"
+       width="61.849033"
+       height="18.943619"
+       x="-144.04796"
+       y="221.99097"
+       ry="2.2581797"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-141.07394"
+       y="236.56146"
+       id="text25469"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan25467"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-141.07394"
+         y="236.56146">js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="-104.27888"
+       y="239.30367"
+       id="text25473"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan25471"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-104.27888"
+         y="239.30367">interactividad</tspan></text>
+  </g>
+</svg>
