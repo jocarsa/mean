@@ -1,35 +1,30 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+import { DataproyectosService } from '../dataproyectos.service';
 
-interface Proyectos{
-    titulo:string;
-    contenido:string;
-    imagen:string
-}
 
 @Component({
   selector: 'app-proyectos',
-  templateUrl: './proyectos.component.html',
-  styleUrls: ['./proyectos.component.css']
+  template: `
+  
+      <h3>Proyectos</h3>
+        <div class="entrada" *ngFor="let item of data">
+            <img src="/assets/imagenes/nada.jpg">
+            <h4>{{ item.titulo }}</h4>
+            <p class="autor">{{item.autor}}</p>
+            <p>{{ item.contenido }}</p>
+            <div class="clearfix"></div>
+        </div>
+        
+    
+  `,
 })
-export class ProyectosComponent {
-listaProyectos = [{
-        titulo:"Primera razón para comprar el producto",
-        contenido:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        imagen:"discurso.jpg"
-    },
-    {
-        titulo:"Segunda razón para comprar el producto",
-        contenido:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        imagen:"discurso.jpg"
-    },
-    {
-        titulo:"Tercera razón para comprar el producto",
-        contenido:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        imagen:"discurso.jpg"
-    },
-    {
-        titulo:"Cuarta razón para comprar el producto",
-        contenido:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        imagen:"discurso.jpg"
-    }]
+export class ProyectosComponent implements OnInit {
+data!: any[];
+      constructor(private dataproyectosService: DataproyectosService) { }
+
+      ngOnInit() {
+        this.dataproyectosService.getData().subscribe(response => {
+          this.data = response;
+        });
+      }
 }

@@ -25,13 +25,13 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.78127804"
-     inkscape:cx="791.01161"
-     inkscape:cy="371.18668"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:cx="761.57267"
+     inkscape:cy="425.58473"
+     inkscape:window-width="1350"
+     inkscape:window-height="1040"
+     inkscape:window-x="621"
+     inkscape:window-y="68"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs9683">
@@ -85,131 +85,120 @@
        id="rect14842"
        width="117.04971"
        height="46.543961"
-       x="147.48769"
+       x="236.55382"
        y="70.411819"
        ry="2.2581797" />
     <text
        xml:space="preserve"
-       style="font-size:12.6597px;fill:#000000;stroke-width:1.85409;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.85409, 7.41637"
-       x="108.65149"
-       y="48.512848"
-       id="text11291"><tspan
-         sodipodi:role="line"
-         id="tspan11289"
-         style="stroke-width:1.85409"
-         x="108.65149"
-         y="48.512848">MEAN</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
        x="-134.33675"
-       y="236.25592"
+       y="325.32205"
        id="text591"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan589"
          style="fill:#ffffff;stroke-width:1.16173"
          x="-134.33675"
-         y="236.25592">js</tspan></text>
+         y="325.32205">js</tspan></text>
     <rect
        style="fill:#ff0000;stroke-width:0.264583"
        id="rect171-9"
        width="61.849033"
        height="18.943619"
        x="-93.636238"
-       y="194.90112"
+       y="283.96725"
        ry="2.2581797"
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
        style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
        x="-90.662231"
-       y="209.47165"
+       y="298.53778"
        id="text279-2"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan277-1"
          style="fill:#ffffff;stroke-width:1.16173"
          x="-90.662231"
-         y="209.47165">html</tspan></text>
+         y="298.53778">html</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
        x="-47.845352"
-       y="212.21385"
+       y="301.28"
        id="text493-5"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan491-6"
          style="fill:#ffffff;stroke-width:0.264583"
          x="-47.845352"
-         y="212.21385">esqueleto</tspan></text>
+         y="301.28">esqueleto</tspan></text>
     <rect
        style="fill:#808000;stroke-width:0.264583"
        id="rect171-8-0"
        width="61.849033"
        height="18.943619"
        x="-93.698952"
-       y="173.13478"
+       y="262.20093"
        ry="2.2581797"
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
        style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
        x="-90.724968"
-       y="187.70531"
+       y="276.77145"
        id="text279-5-6"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan277-3-1"
          style="fill:#ffffff;stroke-width:1.16173"
          x="-90.724968"
-         y="187.70531">css</tspan></text>
+         y="276.77145">css</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
        x="-46.402618"
-       y="190.44749"
+       y="279.51364"
        id="text493-0-0"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan491-8-9"
          style="fill:#ffffff;stroke-width:0.264583"
          x="-46.402618"
-         y="190.44749">estética</tspan></text>
+         y="279.51364">estética</tspan></text>
     <rect
        style="fill:#0000ff;stroke-width:0.264583"
        id="rect587-6"
        width="61.849033"
        height="18.943619"
        x="-93.281395"
-       y="217.34692"
+       y="306.41306"
        ry="2.2581797"
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
        style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
        x="-90.307388"
-       y="231.91742"
+       y="320.98355"
        id="text591-9"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan589-8"
          style="fill:#ffffff;stroke-width:1.16173"
          x="-90.307388"
-         y="231.91742">ts</tspan></text>
+         y="320.98355">ts</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
        x="-53.512329"
-       y="234.65962"
+       y="323.72577"
        id="text595-2"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan593-0"
          style="fill:#ffffff;stroke-width:0.264583"
          x="-53.512329"
-         y="234.65962">interactividad</tspan></text>
+         y="323.72577">interactividad</tspan></text>
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 1.065;stroke-dashoffset:0;stroke-opacity:1"
        d="M 5.8703291,121.3938 H 284.82863"
@@ -220,39 +209,39 @@
        id="rect1552"
        width="61.849033"
        height="18.943619"
-       x="178.94778"
+       x="268.01392"
        y="163.23453"
        ry="2.2581797" />
     <text
        xml:space="preserve"
        style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
-       x="180.52068"
+       x="269.58682"
        y="173.87303"
        id="text1556"><tspan
          sodipodi:role="line"
          id="tspan1554"
          style="fill:#ffffff;stroke-width:0.822489"
-         x="180.52068"
+         x="269.58682"
          y="173.87303">Node.js</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
-       x="201.90594"
+       x="290.97208"
        y="180.54723"
        id="text1560"><tspan
          sodipodi:role="line"
          id="tspan1558"
          style="fill:#ffffff;stroke-width:0.264583"
-         x="201.90594"
+         x="290.97208"
          y="180.54723">programación en servidor</tspan></text>
     <path
        style="fill:#008000;stroke:#000000;stroke-width:1.065;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1-6)"
-       d="m 212.67505,142.11702 0,-24.57439"
+       d="M 301.74119,142.11702 V 117.54263"
        id="path3467"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#008000;stroke:#000000;stroke-width:1.065;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1-6-3)"
-       d="m 203.27182,116.25718 0,25.41252"
+       d="M 292.33796,116.25718 V 141.6697"
        id="path3467-0"
        sodipodi:nodetypes="cc" />
     <rect
@@ -260,78 +249,30 @@
        id="rect171-8-6"
        width="40.288403"
        height="12.339856"
-       x="189.23303"
+       x="278.29916"
        y="122.07674"
        ry="6.1699281" />
     <text
        xml:space="preserve"
        style="font-size:9.08102px;fill:#ffffff;stroke-width:0.75675"
-       x="196.25111"
+       x="285.31726"
        y="130.36841"
        id="text279-5-9"><tspan
          sodipodi:role="line"
          id="tspan277-3-9"
          style="fill:#ffffff;stroke-width:0.75675"
-         x="196.25111"
+         x="285.31726"
          y="130.36841">json</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
-       x="50.493752"
-       y="-114.63936"
-       id="text14828"
-       transform="rotate(90)"><tspan
-         sodipodi:role="line"
-         id="tspan14826"
-         style="stroke-width:0.465"
-         x="50.493752"
-         y="-114.63936">ongoDB</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;fill:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
-       x="50.733219"
-       y="-123.73903"
-       id="text14832"
-       transform="rotate(90)"><tspan
-         sodipodi:role="line"
-         id="tspan14830"
-         style="stroke-width:0.465"
-         x="50.733219"
-         y="-123.73903">xpress.js</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;fill:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
-       x="50.733219"
-       y="-131.16245"
-       id="text14836"
-       transform="rotate(90)"><tspan
-         sodipodi:role="line"
-         id="tspan14834"
-         style="stroke-width:0.465"
-         x="50.733219"
-         y="-131.16245">ngular</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;fill:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
-       x="51.212147"
-       y="-139.06477"
-       id="text14840"
-       transform="rotate(90)"><tspan
-         sodipodi:role="line"
-         id="tspan14838"
-         style="stroke-width:0.465"
-         x="51.212147"
-         y="-139.06477">ode.js</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:9.43465px;fill:#ffffff;stroke-width:0.786219"
-       x="187.75804"
+       x="276.82419"
        y="111.49073"
        id="text14846"><tspan
          sodipodi:role="line"
          id="tspan14844"
          style="fill:#ffffff;stroke-width:0.786219"
-         x="187.75804"
+         x="276.82419"
          y="111.49073">Angular</tspan></text>
     <rect
        style="fill:#ff2a2a;stroke-width:0.264583"
@@ -339,143 +280,656 @@
        width="61.849033"
        height="18.943619"
        x="-73.131454"
-       y="217.34692"
+       y="306.41306"
        ry="2.2581797"
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
        style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
        x="-70.157448"
-       y="231.91742"
+       y="320.98355"
        id="text25469"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan25467"
          style="fill:#ffffff;stroke-width:1.16173"
          x="-70.157448"
-         y="231.91742">js</tspan></text>
+         y="320.98355">js</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
        x="-33.362385"
-       y="234.65962"
+       y="323.72577"
        id="text25473"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan25471"
          style="fill:#ffffff;stroke-width:0.264583"
          x="-33.362385"
-         y="234.65962">interactividad</tspan></text>
-    <circle
-       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
-       id="path990"
-       cx="114.14267"
-       cy="35.818153"
-       r="2.1851172" />
-    <path
-       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 113.11008,35.966063 0.65147,0.651469 1.48265,-1.482652"
-       id="path1150" />
-    <circle
-       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
-       id="circle1530"
-       cx="139.37244"
-       cy="35.818153"
-       r="2.1851172" />
-    <path
-       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 138.33984,35.966063 0.65147,0.651469 1.48265,-1.482652"
-       id="path1532" />
-    <circle
-       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
-       id="circle1534"
-       cx="123.96365"
-       cy="35.818153"
-       r="2.1851172" />
-    <path
-       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 122.93106,35.966063 0.65147,0.651469 1.48265,-1.482652"
-       id="path1536" />
-    <text
-       xml:space="preserve"
-       style="font-size:2.35176px;fill:none;stroke:#efefef;stroke-width:0.937001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="120.37699"
-       y="32.073433"
-       id="text1592"><tspan
-         sodipodi:role="line"
-         id="tspan1590"
-         style="fill:#000000;stroke:none;stroke-width:0.937001"
-         x="120.37699"
-         y="32.073433">pug.js</tspan></text>
+         y="323.72577">interactividad</tspan></text>
     <rect
        style="fill:#ff0000;stroke-width:0.264583"
        id="rect6391"
        width="61.849033"
        height="18.943619"
-       x="178.94778"
+       x="268.01392"
        y="141.89929"
        ry="2.2581797" />
     <text
        xml:space="preserve"
        style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
-       x="180.52068"
+       x="269.58682"
        y="152.5378"
        id="text6395"><tspan
          sodipodi:role="line"
          id="tspan6393"
          style="fill:#ffffff;stroke-width:0.822489"
-         x="180.52068"
+         x="269.58682"
          y="152.5378">Express.js</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
-       x="201.90594"
+       x="290.97208"
        y="159.21199"
        id="text6399"><tspan
          sodipodi:role="line"
          id="tspan6397"
          style="fill:#ffffff;stroke-width:0.264583"
-         x="201.90594"
+         x="290.97208"
          y="159.21199">programación en servidor</tspan></text>
-    <circle
-       style="fill:#008000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"
-       id="circle6455"
-       cx="131.47009"
-       cy="35.818153"
-       r="2.1851172" />
-    <path
-       style="fill:none;stroke:#efefef;stroke-width:0.671304;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 130.4375,35.966063 0.65147,0.651469 1.48265,-1.482652"
-       id="path6457" />
     <rect
        style="fill:#000080;stroke-width:0.264583"
        id="rect9459"
        width="61.849033"
        height="18.943619"
-       x="178.94778"
+       x="268.01392"
        y="185.50476"
        ry="2.2581797" />
     <text
        xml:space="preserve"
        style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
-       x="180.52068"
+       x="269.58682"
        y="196.14326"
        id="text9463"><tspan
          sodipodi:role="line"
          id="tspan9461"
          style="fill:#ffffff;stroke-width:0.822489"
-         x="180.52068"
+         x="269.58682"
          y="196.14326">MySQL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
-       x="216.51331"
+       x="305.57944"
        y="202.81746"
        id="text9467"><tspan
          sodipodi:role="line"
          id="tspan9465"
          style="fill:#ffffff;stroke-width:0.264583"
-         x="216.51331"
+         x="305.57944"
+         y="202.81746">base de datos</tspan></text>
+    <rect
+       style="fill:#d40000;stroke-width:0.264583"
+       id="rect20495"
+       width="117.04971"
+       height="46.543961"
+       x="115.31551"
+       y="70.411819"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-134.33675"
+       y="204.08374"
+       id="text20499"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20497"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-134.33675"
+         y="204.08374">js</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect20501"
+       width="61.849033"
+       height="18.943619"
+       x="-93.636238"
+       y="162.72894"
+       ry="2.2581797"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-90.662231"
+       y="177.29947"
+       id="text20505"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20503"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-90.662231"
+         y="177.29947">html</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="-47.845352"
+       y="180.04169"
+       id="text20509"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20507"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-47.845352"
+         y="180.04169">esqueleto</tspan></text>
+    <rect
+       style="fill:#808000;stroke-width:0.264583"
+       id="rect20511"
+       width="61.849033"
+       height="18.943619"
+       x="-93.698952"
+       y="140.96262"
+       ry="2.2581797"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-90.724968"
+       y="155.53314"
+       id="text20515"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20513"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-90.724968"
+         y="155.53314">css</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="-46.402618"
+       y="158.27533"
+       id="text20519"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20517"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-46.402618"
+         y="158.27533">estética</tspan></text>
+    <rect
+       style="fill:#0000ff;stroke-width:0.264583"
+       id="rect20521"
+       width="61.849033"
+       height="18.943619"
+       x="-93.281395"
+       y="185.17474"
+       ry="2.2581797"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-90.307388"
+       y="199.74524"
+       id="text20525"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20523"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-90.307388"
+         y="199.74524">ts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="-53.512329"
+       y="202.48746"
+       id="text20529"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20527"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-53.512329"
+         y="202.48746">interactividad</tspan></text>
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect20531"
+       width="61.849033"
+       height="18.943619"
+       x="146.7756"
+       y="163.23453"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="148.34851"
+       y="173.87303"
+       id="text20535"><tspan
+         sodipodi:role="line"
+         id="tspan20533"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="148.34851"
+         y="173.87303">Node.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="169.73376"
+       y="180.54723"
+       id="text20539"><tspan
+         sodipodi:role="line"
+         id="tspan20537"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="169.73376"
+         y="180.54723">programación en servidor</tspan></text>
+    <path
+       style="fill:#008000;stroke:#000000;stroke-width:1.065;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1-6)"
+       d="M 180.50287,142.11702 V 117.54263"
+       id="path20541"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#008000;stroke:#000000;stroke-width:1.065;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1-6-3)"
+       d="M 171.09964,116.25718 V 141.6697"
+       id="path20543"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#808000;stroke-width:0.172349"
+       id="rect20545"
+       width="40.288403"
+       height="12.339856"
+       x="157.06085"
+       y="122.07674"
+       ry="6.1699281" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.08102px;fill:#ffffff;stroke-width:0.75675"
+       x="164.07895"
+       y="130.36841"
+       id="text20549"><tspan
+         sodipodi:role="line"
+         id="tspan20547"
+         style="fill:#ffffff;stroke-width:0.75675"
+         x="164.07895"
+         y="130.36841">json</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.43465px;fill:#ffffff;stroke-width:0.786219"
+       x="155.58588"
+       y="111.49073"
+       id="text20553"><tspan
+         sodipodi:role="line"
+         id="tspan20551"
+         style="fill:#ffffff;stroke-width:0.786219"
+         x="155.58588"
+         y="111.49073">React</tspan></text>
+    <rect
+       style="fill:#ff2a2a;stroke-width:0.264583"
+       id="rect20555"
+       width="61.849033"
+       height="18.943619"
+       x="-73.131454"
+       y="185.17474"
+       ry="2.2581797"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-70.157448"
+       y="199.74524"
+       id="text20559"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20557"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-70.157448"
+         y="199.74524">js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="-33.362385"
+       y="202.48746"
+       id="text20563"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20561"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-33.362385"
+         y="202.48746">interactividad</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect20565"
+       width="61.849033"
+       height="18.943619"
+       x="146.7756"
+       y="141.89929"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="148.34851"
+       y="152.5378"
+       id="text20569"><tspan
+         sodipodi:role="line"
+         id="tspan20567"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="148.34851"
+         y="152.5378">Express.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="169.73376"
+       y="159.21199"
+       id="text20573"><tspan
+         sodipodi:role="line"
+         id="tspan20571"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="169.73376"
+         y="159.21199">programación en servidor</tspan></text>
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect20575"
+       width="61.849033"
+       height="18.943619"
+       x="146.7756"
+       y="185.50476"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="148.34851"
+       y="196.14326"
+       id="text20579"><tspan
+         sodipodi:role="line"
+         id="tspan20577"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="148.34851"
+         y="196.14326">MySQL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="184.34113"
+       y="202.81746"
+       id="text20583"><tspan
+         sodipodi:role="line"
+         id="tspan20581"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="184.34113"
+         y="202.81746">base de datos</tspan></text>
+    <rect
+       style="fill:#d40000;stroke-width:0.264583"
+       id="rect20585"
+       width="117.04971"
+       height="46.543961"
+       x="-8.6320381"
+       y="70.411819"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-134.33675"
+       y="80.136192"
+       id="text20589"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20587"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-134.33675"
+         y="80.136192">js</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect20591"
+       width="61.849033"
+       height="18.943619"
+       x="-93.636238"
+       y="38.781391"
+       ry="2.2581797"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-90.662231"
+       y="53.351917"
+       id="text20595"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20593"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-90.662231"
+         y="53.351917">html</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="-47.845352"
+       y="56.094135"
+       id="text20599"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20597"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-47.845352"
+         y="56.094135">esqueleto</tspan></text>
+    <rect
+       style="fill:#808000;stroke-width:0.264583"
+       id="rect20601"
+       width="61.849033"
+       height="18.943619"
+       x="-93.698952"
+       y="17.015064"
+       ry="2.2581797"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-90.724968"
+       y="31.58559"
+       id="text20605"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20603"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-90.724968"
+         y="31.58559">css</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="-46.402618"
+       y="34.327778"
+       id="text20609"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20607"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-46.402618"
+         y="34.327778">estética</tspan></text>
+    <rect
+       style="fill:#0000ff;stroke-width:0.264583"
+       id="rect20611"
+       width="61.849033"
+       height="18.943619"
+       x="-93.281395"
+       y="61.227192"
+       ry="2.2581797"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-90.307388"
+       y="75.797691"
+       id="text20615"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20613"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-90.307388"
+         y="75.797691">ts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="-53.512329"
+       y="78.539909"
+       id="text20619"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20617"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-53.512329"
+         y="78.539909">interactividad</tspan></text>
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect20621"
+       width="61.849033"
+       height="18.943619"
+       x="22.828053"
+       y="163.23453"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="24.400959"
+       y="173.87303"
+       id="text20625"><tspan
+         sodipodi:role="line"
+         id="tspan20623"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="24.400959"
+         y="173.87303">Node.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="45.786213"
+       y="180.54723"
+       id="text20629"><tspan
+         sodipodi:role="line"
+         id="tspan20627"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="45.786213"
+         y="180.54723">programación en servidor</tspan></text>
+    <path
+       style="fill:#008000;stroke:#000000;stroke-width:1.065;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1-6)"
+       d="M 56.555319,142.11702 V 117.54263"
+       id="path20631"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#008000;stroke:#000000;stroke-width:1.065;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1-6-3)"
+       d="M 47.152089,116.25718 V 141.6697"
+       id="path20633"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#808000;stroke-width:0.172349"
+       id="rect20635"
+       width="40.288403"
+       height="12.339856"
+       x="33.1133"
+       y="122.07674"
+       ry="6.1699281" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.08102px;fill:#ffffff;stroke-width:0.75675"
+       x="40.131397"
+       y="130.36841"
+       id="text20639"><tspan
+         sodipodi:role="line"
+         id="tspan20637"
+         style="fill:#ffffff;stroke-width:0.75675"
+         x="40.131397"
+         y="130.36841">json</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.43465px;fill:#ffffff;stroke-width:0.786219"
+       x="31.638325"
+       y="111.49073"
+       id="text20643"><tspan
+         sodipodi:role="line"
+         id="tspan20641"
+         style="fill:#ffffff;stroke-width:0.786219"
+         x="31.638325"
+         y="111.49073">Vue.js</tspan></text>
+    <rect
+       style="fill:#ff2a2a;stroke-width:0.264583"
+       id="rect20645"
+       width="61.849033"
+       height="18.943619"
+       x="-73.131454"
+       y="61.227192"
+       ry="2.2581797"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.9408px;fill:#ffffff;stroke-width:1.16173"
+       x="-70.157448"
+       y="75.797691"
+       id="text20649"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20647"
+         style="fill:#ffffff;stroke-width:1.16173"
+         x="-70.157448"
+         y="75.797691">js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="-33.362385"
+       y="78.539909"
+       id="text20653"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan20651"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="-33.362385"
+         y="78.539909">interactividad</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect20655"
+       width="61.849033"
+       height="18.943619"
+       x="22.828053"
+       y="141.89929"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="24.400959"
+       y="152.5378"
+       id="text20659"><tspan
+         sodipodi:role="line"
+         id="tspan20657"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="24.400959"
+         y="152.5378">Express.js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="45.786213"
+       y="159.21199"
+       id="text20663"><tspan
+         sodipodi:role="line"
+         id="tspan20661"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="45.786213"
+         y="159.21199">programación en servidor</tspan></text>
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect20665"
+       width="61.849033"
+       height="18.943619"
+       x="22.828053"
+       y="185.50476"
+       ry="2.2581797" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.8699px;fill:#ffffff;stroke-width:0.822489"
+       x="24.400959"
+       y="196.14326"
+       id="text20669"><tspan
+         sodipodi:role="line"
+         id="tspan20667"
+         style="fill:#ffffff;stroke-width:0.822489"
+         x="24.400959"
+         y="196.14326">MySQL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:0.264583"
+       x="60.393574"
+       y="202.81746"
+       id="text20673"><tspan
+         sodipodi:role="line"
+         id="tspan20671"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="60.393574"
          y="202.81746">base de datos</tspan></text>
   </g>
 </svg>
