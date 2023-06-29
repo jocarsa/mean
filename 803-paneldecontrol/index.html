@@ -43,17 +43,18 @@
         </div>
         -->
         <script>
+             var temporizador
             var tabla = ""
             window.onload = function(){
                 console.log("documento cargado")
-                fetch("http://localhost:809/miapi/tablas")
+                fetch("http://192.168.1.74:809/miapi/tablas")
                     .then(response => response.json())
                     .then(json => listadoTablas(json))
             }
             function listadoTablas(json){
                 console.log(json)
                 for(var i = 0;i<json.length;i++){
-                    document.getElementById("tablas").innerHTML += '<li class="elementomenu">'+json[i].Tables_in_blog+'</li>'
+                    document.getElementById("tablas").innerHTML += '<li class="elementomenu">'+json[i].Tables_in_aplicacion+'</li>'
                 }
                 var elementos = document.getElementsByClassName("elementomenu")
                 console.log(elementos)
@@ -62,7 +63,7 @@
                         console.log("has hecho click en un elemento del menu")
                         tabla = this.innerHTML
                         console.log("voy a trabajar sobre la tabla: "+tabla)
-                        fetch("http://localhost:809/miapi/read?tabla="+tabla)
+                        fetch("http://192.168.1.74:809/miapi/read?tabla="+tabla)
                             .then(response => response.json())
                             .then(json => pueblaTabla(json))
                     }
@@ -70,6 +71,7 @@
                 }
             }
             function pueblaTabla(json){
+                temporizador = setTimeout("bucle()",1000)
                     document.getElementById("tabla").innerHTML = ""
                         console.log("hola3")
                     cadena = ""
@@ -88,11 +90,12 @@
                     }
             document.getElementById("nuevoelemento").onclick = function(){
                 console.log("panel")
-                fetch("http://localhost:809/miapi/read?tabla="+tabla)
+                fetch("http://192.168.1.74:809/miapi/read?tabla="+tabla)
                             .then(response => response.json())
                             .then(json => pueblaFormulario(json))
             }
             function pueblaFormulario(json){
+                clearTimeout(temporizador)
                     document.getElementById("tabla").innerHTML = ""
                         console.log("hola3")
                     cadena = ""
@@ -119,26 +122,19 @@
                             }
                             console.log("voy a enviar:")
                             console.log("http://localhost:809/miapi/create?tabla="+tabla+"&"+argumentos)
-                            fetch("http://localhost:809/miapi/create?tabla="+tabla+"&"+argumentos)
+                            fetch("http://192.168.1.74:809/miapi/create?tabla="+tabla+"&"+argumentos)
                         }
                     }
             
             
-           /*
-                document.getElementById("envia").onclick =function(){
-                    var titulo = document.getElementById("titulo").value
-                    var contenido = document.getElementById("contenido").value
-                    var autor = document.getElementById("autor").value
-                    fetch("http://localhost:808/miapi/create?titulo="+titulo+"&contenido="+contenido+"&autor="+autor)
-                }
-                document.getElementById("dame").onclick =function(){
-                   
-                    fetch("http://localhost:808/miapi/read")
-                    .then(response => response.json())
-                    .then(json => pueblaTabla(json))
-                }
-                
-               */
+           function bucle(){
+               console.log("bucle")
+               fetch("http://192.168.1.74:809/miapi/read?tabla="+tabla)
+                            .then(response => response.json())
+                            .then(json => pueblaTabla(json))
+               clearTimeout(temporizador)
+               temporizador = setTimeout("bucle",1000)
+           }
         </script>
     </body>
 </html>
