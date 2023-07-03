@@ -1,1 +1,0 @@
-Crea un archivo que saque por consola tu nombre, y ejecútalo con Node.js
