@@ -1,0 +1,3 @@
+use blog
+
+db.entradas.deleteOne({titulo:"Título de la cuarta entrada"})

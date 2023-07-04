@@ -1,6 +1,0 @@
-db.entradas.insertOne({
-    titulo:"Título de la primera entrada",
-    contenido:"Este es el contenido de la primera entrada",
-    fecha:"2023-06-08",
-    autor:"Jose Vicente Carratala"
-})

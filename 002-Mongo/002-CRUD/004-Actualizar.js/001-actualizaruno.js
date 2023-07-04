@@ -1,1 +1,0 @@
-db.entradas.updateOne({titulo:"Título de la tercera entrada"},{$set:{autor:"yo mismo"}})

@@ -1,0 +1,8 @@
+<h3>Blog</h3>
+<div class="entrada" *ngFor="let EntradaBlog of listaEntradas">
+    <img src="/assets/imagenes/{{EntradaBlog.imagen}}">
+    <h4>{{EntradaBlog.titulo}}</h4>
+    <p class="autor">{{EntradaBlog.autor}}</p>
+    <p>{{EntradaBlog.contenido}}</p>
+    <div class="clearfix"></div>
+</div>

@@ -1,1 +1,0 @@
-db.entradas.find({titulo:"Título de la segunda entrada"})

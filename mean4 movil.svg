@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.104894"
-     inkscape:cx="736.26971"
-     inkscape:cy="328.99083"
+     inkscape:zoom="0.55244701"
+     inkscape:cx="435.33587"
+     inkscape:cy="324.91804"
      inkscape:window-width="1515"
      inkscape:window-height="1040"
      inkscape:window-x="169"
@@ -311,19 +311,19 @@
        width="40.288403"
        height="12.339856"
        x="154.81161"
-       y="121.62978"
+       y="123.78497"
        ry="6.1699281" />
     <text
        xml:space="preserve"
        style="font-size:9.08102px;fill:#ffffff;stroke-width:0.75675"
        x="163.98488"
-       y="130.40038"
+       y="132.55556"
        id="text279-5-9"><tspan
          sodipodi:role="line"
          id="tspan277-3-9"
          style="fill:#ffffff;stroke-width:0.75675"
          x="163.98488"
-         y="130.40038">json</tspan></text>
+         y="132.55556">json</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.465, 1.86"

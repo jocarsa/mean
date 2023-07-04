@@ -1,6 +1,0 @@
-<h3>Formulario de contacto</h3>
-<form action="/enviacontacto/" method="GET">
-    <div class="campo" *ngFor="let CampoFormulario of listaCampos">
-        <input type="{{CampoFormulario.tipo}}" name="{{CampoFormulario.nombre}}" placeholder="{{CampoFormulario.marcador}}">
-    </div>
-</form>

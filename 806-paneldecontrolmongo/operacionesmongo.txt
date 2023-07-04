@@ -1,5 +1,0 @@
-db.usuario.insertOne({
-    usuario:"jocarsa",
-    password:"jocarsa",
-    nombrecompleto:"Jose Vicente  Carratala"
-})
